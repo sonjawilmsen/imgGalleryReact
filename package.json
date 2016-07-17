@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ahfarmer/minimal-react-starter.git"
+    "url": "git@github.com:sonjawilmsen/imgGalleryReact.git"
   },
   "dependencies": {
     "babel-core": "^6.9.1",
