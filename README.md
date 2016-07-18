@@ -1,3 +1,8 @@
+This is a project where I am wokring on an image gallery. I am following a tutorial, the readme below is from that tutorial. It is based on React. 
+At the moment I am working on fixing some errors (18-07-2016)
+
+
+
 Minimal React Starter
 ---
 
